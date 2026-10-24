@@ -2,6 +2,9 @@
 # ZIP Password: WopuWopu
 **Wopu Cleaner** is a single-file C++ utility for Windows designed for deep system cleaning, anti-forensics, and process concealment. It is primarily used to automate the removal of digital traces and bypass manual anti-cheat inspections (e.g., via Discord or AnyDesk) in games like CS2 and Minecraft.
 
+<img width="805" height="691" alt="image" src="https://github.com/user-attachments/assets/7ee74389-7064-44cb-b344-fac8d2961cea" /> <img width="400" height="325" alt="image" src="https://github.com/user-attachments/assets/cfe18fba-a0b5-44cd-b3f6-17352c3ea271" />
+
+
 > **⚠️ WARNING / DISCLAIMER**
 > This tool modifies critical system areas (MFT, PEB, Event Logs, USN Journal, Registry) and uses evasion techniques. It will almost certainly be flagged by antivirus software (AV) and anti-cheat systems.
 > * Using this tool violates the Terms of Service of most gaming platforms and will likely result in permanent bans (including HWID bans).
